@@ -1,8 +1,6 @@
 
 ![louwers](https://github.com/user-attachments/assets/35699b9a-8c74-4837-9216-7490fb09a735)
 
-mr_smith on `irc.libera.chat`
-
 <!--
 **louwers/louwers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
